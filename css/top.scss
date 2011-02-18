@@ -1,0 +1,65 @@
+body {
+  background: black;
+  font-family: Verdana, sans-serif;
+  margin: 0;
+}
+
+div.wrapper {
+  background: url(../images/kaminari_bg.jpg) no-repeat;
+  width: 1600px;
+  margin: 0 auto;
+  padding-top: 15px;
+}
+
+div.container {
+  width: 960px;
+  margin: 0 auto;
+  display: -webkit-box;
+  display: -moz-box;
+}
+
+.radius {
+  border: solid 1px white;
+  border-radius: 10px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+}
+
+header {
+  margin: 0 auto;
+  background: url(../images/logo3.png) no-repeat;
+  width: 600px;
+  height: 285px;
+}
+
+aside {
+  width: 278px;
+  margin: 14px 10px 10px 14px;
+  padding: 10px;
+  background: #192f60;
+  -webkit-box-ordinal-group: 2;
+  -moz-box-ordinal-group: 2;
+}
+
+article.main {
+  width: 570px;
+  margin: 10px 14px 10px 22px;
+  padding:10px;
+  opacity: 0.8;
+  background: #222;
+  font-size: 16px;
+  -webkit-box-ordinal-group: 1;
+  -moz-box-ordinal-group: 1;
+
+  p {
+    width: 530px;
+    color: white;
+    margin: 0 10px 10px 10px;
+  }
+
+  h2 {
+    color: #fcc800;
+    border-top: solid black 4px;
+    margin: 0;
+  }
+}
