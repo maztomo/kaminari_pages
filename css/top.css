@@ -5,7 +5,7 @@ body {
 }
 
 div#wrapper {
-  background: url(images/kaminari_bg.jpg) no-repeat;
+  background: url(../images/kaminari_bg.jpg) no-repeat;
   width: 1600px;
   margin: 0 auto;
   padding-top: 15px;
@@ -25,14 +25,14 @@ div#container {
   -moz-border-radius: 10px;
 }
 
-div#logo {
+header#logo {
   margin: 0 auto;
-  background: url(images/logo3.png) no-repeat;
+  background: url(../images/logo3.png) no-repeat;
   width: 600px;
   height: 285px;
 }
 
-div#sub {
+aside#sub {
   width: 278px;
   margin: 14px 10px 10px 14px;
   padding: 10px;
@@ -41,7 +41,7 @@ div#sub {
   -moz-box-ordinal-group: 2;
 }
 
-#main {
+article#main {
   width: 570px;
   margin: 10px 14px 10px 22px;
   padding:10px;
@@ -52,13 +52,13 @@ div#sub {
   -moz-box-ordinal-group: 1;
 }
 
-#main p {
+article#main p {
   width: 530px;
   color: white;
   margin: 0 10px 10px 10px;
 }
 
-#main h2 {
+article#main h2 {
   color: #fcc800;
   border-top: solid black 4px;
   margin: 0;
