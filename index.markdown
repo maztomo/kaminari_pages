@@ -2,35 +2,30 @@
 layout: default
 title: Kaminari
 ---
-<p>
 A Scope & Engine based clean and powerful and customizable and sophisticated paginator for Rails 3
-</p>
-<h2>about hogehoge</h2>
-<p>
-A Scope & Engine based clean and powerful and customizable and sophisticated paginator for Rails 3
-</p>
 
-<h2>about hogehoge</h2>
-<p>
+## about hogehoge
+
+A Scope & Engine based clean and powerful and customizable and sophisticated paginator for Rails 3
+
+
+## about hogehoge
+
 hogehoge hogehoge hogehoge hogehoge hogehoge hogehoge, hogehoge hogehoge hogehoge hogehoge.<br>hogehoge hogehoge hogehoge hogehoge hogehoge hogehoge, hogehoge hogehoge hogehoge hogehoge.
-</p>
 
-<h2>about hogehoge</h2>
-<p>
-hogehoge
-</p>
 
-<h2>about hogehoge</h2>
-<p>
-hogehoge
-</p>
+## about hogehoge
 
-<h2>about hogehoge</h2>
-<p>
 hogehoge
-</p>
 
-<h2>about hogehoge</h2>
-<p>
+## about hogehoge
+
 hogehoge
-</p>
+
+## about hogehoge
+
+hogehoge
+
+## about hogehoge
+
+hogehoge
