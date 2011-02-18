@@ -35,23 +35,23 @@ Then bundle:
   </div>
 </div>
 
-## about hogehoge
+## ☇ Resources
 
-hogehoge hogehoge hogehoge hogehoge hogehoge hogehoge, hogehoge hogehoge hogehoge hogehoge.<br>hogehoge hogehoge hogehoge hogehoge hogehoge hogehoge, hogehoge hogehoge hogehoge hogehoge.
+### ☇ README
 
+Basic usage is described here.
+[README](https://github.com/amatsuda/kaminari/blob/master/README.rdoc)
 
-## about hogehoge
+### ☇ Kaminari recipes
 
-hogehoge
+More advanced tips and tricks!
+[Kaminari recipes](https://github.com/amatsuda/kaminari/wiki/Kaminari-recipes)
 
-## about hogehoge
+### ☇ Ruby5 - Episode #149
+[Kaminari - pagination the Rails 3 way](http://ruby5.envylabs.com/episodes/152-episode-149-february-11-2011/stories/1336-kaminari-pagination-the-rails-3-way)
 
-hogehoge
+### ☇ Ruby Weekly - Issue #29
+[Issue #29](http://rubyweekly.com/archive/29.html)
 
-## about hogehoge
-
-hogehoge
-
-## about hogehoge
-
-hogehoge
+### ☇ The Ruby Show - Episode 153
+[Episode 153: Defamation](http://rubyshow.com/episodes/153)
