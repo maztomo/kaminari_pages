@@ -1,3 +1,5 @@
+$header-color: #fcc800;
+
 body {
   background: black;
   font-family: Verdana, sans-serif;
@@ -58,8 +60,49 @@ article.main {
   }
 
   h2 {
-    color: #fcc800;
+    color: $header-color;
     border-top: solid black 4px;
     margin: 0;
+  }
+
+  h3 {
+    color: $header-color;
+    border-top: solid black 4px;
+    margin: 0 0 10px 0;
+  }
+
+  .border {
+    margin: 0 0 10px 0;
+
+    #clippy {
+      display: block;
+      margin-left: 530px;
+      margin-top: 50px;
+      position: absolute;
+    }
+
+    .install {
+      background: #ECE5D6;
+      padding: 12px;
+      color: #000;
+
+      .instructions {
+        background-repeat: repeat-x;
+        background-color: #AD4;
+        color: rgba(0,0,0,.8);
+        height: 90px;
+
+        span {
+          font-family: Monaco, Consolas, "Courier New", monospace;
+          margin-left: 0.5em;
+          display: table-cell;
+          vertical-align: middle;
+          font-size: 3em;
+          height: 90px;
+          width: 530px;
+          line-height: 1.2em;
+        }
+      }
+    }
   }
 }

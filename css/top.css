@@ -52,3 +52,32 @@ article.main {
     color: #fcc800;
     border-top: solid black 4px;
     margin: 0; }
+  article.main h3 {
+    color: #fcc800;
+    border-top: solid black 4px;
+    margin: 0 0 10px 0; }
+  article.main .border {
+    margin: 0 0 10px 0; }
+    article.main .border #clippy {
+      display: block;
+      margin-left: 530px;
+      margin-top: 50px;
+      position: absolute; }
+    article.main .border .install {
+      background: #ECE5D6;
+      padding: 12px;
+      color: #000; }
+      article.main .border .install .instructions {
+        background-repeat: repeat-x;
+        background-color: #AD4;
+        color: rgba(0, 0, 0, 0.8);
+        height: 90px; }
+        article.main .border .install .instructions span {
+          font-family: Monaco, Consolas, "Courier New", monospace;
+          margin-left: 0.5em;
+          display: table-cell;
+          vertical-align: middle;
+          font-size: 3em;
+          height: 90px;
+          width: 530px;
+          line-height: 1.2em; }
