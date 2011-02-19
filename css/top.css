@@ -31,7 +31,7 @@ aside {
   width: 278px;
   margin: 14px 10px 10px 14px;
   padding: 10px;
-  background: #192f60;
+  background: #2f4f4f;
   -webkit-box-ordinal-group: 2;
   -moz-box-ordinal-group: 2; }
 
@@ -48,13 +48,19 @@ article.main {
     width: 530px;
     color: white;
     margin: 0 10px 10px 10px; }
+    article.main p a {
+      color: white; }
+    article.main p a:hover {
+      color: #ff8c00;
+      text-decoration: underline; }
+    article.main p a:visited {
+      color: #98fb98; }
   article.main h2 {
     color: #fcc800;
     border-top: solid black 4px;
     margin: 0; }
   article.main h3 {
-    color: #fcc800;
-    border-top: solid black 4px;
+    color: #32cd32;
     margin: 0 0 10px 0; }
   article.main .border {
     margin: 0 0 10px 0; }

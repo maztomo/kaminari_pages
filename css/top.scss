@@ -38,7 +38,7 @@ aside {
   width: 278px;
   margin: 14px 10px 10px 14px;
   padding: 10px;
-  background: #192f60;
+  background: #2f4f4f;
   -webkit-box-ordinal-group: 2;
   -moz-box-ordinal-group: 2;
 }
@@ -57,17 +57,28 @@ article.main {
     width: 530px;
     color: white;
     margin: 0 10px 10px 10px;
+
+    a {
+      color: white;
+    }
+    a:hover {
+      color: #ff8c00;
+      text-decoration: underline;
+    }
+    a:visited {
+      color: #98fb98;
+    }
   }
 
   h2 {
     color: $header-color;
     border-top: solid black 4px;
+
     margin: 0;
   }
 
   h3 {
-    color: $header-color;
-    border-top: solid black 4px;
+    color: #32cd32;
     margin: 0 0 10px 0;
   }
 
